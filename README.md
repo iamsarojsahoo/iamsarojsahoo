@@ -2,7 +2,7 @@
 
 ## I'm an System Engineer, Developer, and Teacher!!
 
-- 🔭 I’m currently working in HUL[HUL] as system engineer and for [HTS] as a freelance developer.
+- 🔭 I’m currently working in [HUL] as system engineer and for [HTS] as a freelance developer.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute some to Open Source projects
