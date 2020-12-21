@@ -1,8 +1,8 @@
-### Hi there, I'm Saroj Sahoo - aka [iamsaroj][website] 👋
+### HOLA, I'm Saroj Sahoo - aka [iamsaroj][website] 👋
 
 ## I'm an Engineer, Developer, and Teacher!!
 
-- 🔭 I’m currently working on [latestproject]
+- 🔭 I’m currently working on [HTS]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -35,4 +35,4 @@
 [youtube]: https://www.youtube.com/channel/UCnWiKSQmcYUn5iviy6qRPvg
 [instagram]: https://instagram.com/sarojrokr
 [linkedin]: https://linkedin.com/in/sarojrokr
-[latestproject]: http://htspetrochem.com/
+[HTS]: http://htspetrochem.com/
