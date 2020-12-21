@@ -1,4 +1,4 @@
-### HOLA, I'm Saroj Sahoo - aka [iamsarojsahoo][website] 👋
+### Halu, I'm Saroj Sahoo - aka [iamsarojsahoo][website] 👋
 
 ## I'm a System Engineer, Developer, and Teacher!!
 
