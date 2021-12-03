@@ -1,6 +1,6 @@
 ### Halu, I'm Saroj Sahoo - aka [iamsarojsahoo][website] 👋
 
-## I'm a System Engineer, Developer, and Teacher!!
+## I'm a Software Engineer, Developer, and Teacher!!
 
 - 🔭 I’m currently working in [HUL] as system engineer and for [HTS] as a freelance developer.
 - 🌱 I’m currently learning everything 🤣
