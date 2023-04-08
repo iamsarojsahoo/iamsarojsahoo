@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer, Developer, and Teacher!!
 
-- 🔭 I’m currently working in [BAJAJ ELECTRICALS LTD] as IT Generalist.
+- 🔭 I’m currently working in BAJAJ ELECTRICALS LTD as IT Generalist.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute some to Open Source projects
