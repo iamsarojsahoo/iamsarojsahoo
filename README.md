@@ -2,10 +2,10 @@
 
 ## I'm a Software Engineer, Developer, and Teacher!!
 
-- 🔭 I’m currently working in [HUL] as system engineer and for [HTS] as a freelance developer.
+- 🔭 I’m currently working in [BAJAJ ELECTRICALS LTD] as IT Generalist.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute some to Open Source projects
+- 🥅 2023 Goals: Contribute some to Open Source projects
 - ⚡ Fun fact: I spend almost 6 hours listening songs and stories on youtube everyday.
 
 
