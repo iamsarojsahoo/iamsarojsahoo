@@ -37,10 +37,9 @@
 <br />
 <br />
 
-[website]: https://sarojsahoo.online
+[website]: [https://sarojsahoo.online](https://githero.in/)
 [twitter]: https://twitter.com/sarojrokr
 [youtube]: https://www.youtube.com/channel/UCnWiKSQmcYUn5iviy6qRPvg
 [instagram]: https://instagram.com/sarojrokr
 [linkedin]: https://linkedin.com/in/sarojrokr
-[HTS]: http://htspetrochem.com/
-[HUL]: https://www.hul.co.in/
+
